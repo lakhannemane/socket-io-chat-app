@@ -1,0 +1,8 @@
+nodemon is just whwnever save changes then reflect your changes there automaticaly
+socket io
+
+cors helps you to figure out you bunch of issue with your connections
+ 
+
+
+ # socket io face lots of socket connection issues thats wwhy that is need this
